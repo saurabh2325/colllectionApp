@@ -1,0 +1,14 @@
+{
+  "name": "collection-application",
+  "version": "1.0.0",
+  "description": "collection application",
+  "main": "server.js", 
+  "scripts": {
+    "test": "gulp test",
+    "start": "node server.js"  
+  },
+  "devDependencies": {
+    "http-server": "*" 
+  },
+  "dependencies": {}
+}
